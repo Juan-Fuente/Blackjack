@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Black Jack Lab 2", "Black Jack Lab 2\Black Jack Lab 2.csproj", "{79874A01-412C-47DA-8E08-2729469009B8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9B350116-F91D-4B16-96BA-2FD737640EE3} = {9B350116-F91D-4B16-96BA-2FD737640EE3}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryLab2", "ClassLibraryLab2\ClassLibraryLab2.csproj", "{9B350116-F91D-4B16-96BA-2FD737640EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79874A01-412C-47DA-8E08-2729469009B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79874A01-412C-47DA-8E08-2729469009B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79874A01-412C-47DA-8E08-2729469009B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79874A01-412C-47DA-8E08-2729469009B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B350116-F91D-4B16-96BA-2FD737640EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B350116-F91D-4B16-96BA-2FD737640EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B350116-F91D-4B16-96BA-2FD737640EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B350116-F91D-4B16-96BA-2FD737640EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBE17D78-7C17-42A4-BE63-0B5D5DC0D703}
+	EndGlobalSection
+EndGlobal

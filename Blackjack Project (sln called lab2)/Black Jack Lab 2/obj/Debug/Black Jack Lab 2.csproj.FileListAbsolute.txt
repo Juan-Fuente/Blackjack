@@ -1,0 +1,30 @@
+C:\Users\juand\source\repos\Black Jack Lab 2\Black Jack Lab 2\obj\Debug\Black Jack Lab 2.csprojAssemblyReference.cache
+C:\Users\juand\source\repos\Black Jack Lab 2\Black Jack Lab 2\obj\Debug\Black Jack Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\juand\source\repos\Black Jack Lab 2\Black Jack Lab 2\bin\Debug\Black Jack Lab 2.exe.config
+C:\Users\juand\source\repos\Black Jack Lab 2\Black Jack Lab 2\bin\Debug\Black Jack Lab 2.exe
+C:\Users\juand\source\repos\Black Jack Lab 2\Black Jack Lab 2\bin\Debug\Black Jack Lab 2.pdb
+C:\Users\juand\source\repos\Black Jack Lab 2\Black Jack Lab 2\bin\Debug\ClassLibraryLab2.dll
+C:\Users\juand\source\repos\Black Jack Lab 2\Black Jack Lab 2\bin\Debug\ClassLibraryLab2.pdb
+C:\Users\juand\source\repos\Black Jack Lab 2\Black Jack Lab 2\obj\Debug\Black Jack Lab 2.csproj.CopyComplete
+C:\Users\juand\source\repos\Black Jack Lab 2\Black Jack Lab 2\obj\Debug\Black Jack Lab 2.exe
+C:\Users\juand\source\repos\Black Jack Lab 2\Black Jack Lab 2\obj\Debug\Black Jack Lab 2.pdb
+C:\Users\juand\Desktop\Black Jack Lab 2\Black Jack Lab 2\bin\Debug\Black Jack Lab 2.exe.config
+C:\Users\juand\Desktop\Black Jack Lab 2\Black Jack Lab 2\bin\Debug\Black Jack Lab 2.exe
+C:\Users\juand\Desktop\Black Jack Lab 2\Black Jack Lab 2\bin\Debug\Black Jack Lab 2.pdb
+C:\Users\juand\Desktop\Black Jack Lab 2\Black Jack Lab 2\bin\Debug\ClassLibraryLab2.dll
+C:\Users\juand\Desktop\Black Jack Lab 2\Black Jack Lab 2\bin\Debug\ClassLibraryLab2.pdb
+C:\Users\juand\Desktop\Black Jack Lab 2\Black Jack Lab 2\obj\Debug\Black Jack Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\juand\Desktop\Black Jack Lab 2\Black Jack Lab 2\obj\Debug\Black Jack Lab 2.csproj.CopyComplete
+C:\Users\juand\Desktop\Black Jack Lab 2\Black Jack Lab 2\obj\Debug\Black Jack Lab 2.exe
+C:\Users\juand\Desktop\Black Jack Lab 2\Black Jack Lab 2\obj\Debug\Black Jack Lab 2.pdb
+C:\Users\juand\Desktop\Black Jack Lab 2\Black Jack Lab 2\obj\Debug\Black Jack Lab 2.csprojAssemblyReference.cache
+C:\Users\juand\Desktop\Blackjack Project (sln called lab2)\Black Jack Lab 2\bin\Debug\Black Jack Lab 2.exe.config
+C:\Users\juand\Desktop\Blackjack Project (sln called lab2)\Black Jack Lab 2\bin\Debug\Black Jack Lab 2.exe
+C:\Users\juand\Desktop\Blackjack Project (sln called lab2)\Black Jack Lab 2\bin\Debug\Black Jack Lab 2.pdb
+C:\Users\juand\Desktop\Blackjack Project (sln called lab2)\Black Jack Lab 2\bin\Debug\ClassLibraryLab2.dll
+C:\Users\juand\Desktop\Blackjack Project (sln called lab2)\Black Jack Lab 2\bin\Debug\ClassLibraryLab2.pdb
+C:\Users\juand\Desktop\Blackjack Project (sln called lab2)\Black Jack Lab 2\obj\Debug\Black Jack Lab 2.csprojAssemblyReference.cache
+C:\Users\juand\Desktop\Blackjack Project (sln called lab2)\Black Jack Lab 2\obj\Debug\Black Jack Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\juand\Desktop\Blackjack Project (sln called lab2)\Black Jack Lab 2\obj\Debug\Black Jack Lab 2.csproj.CopyComplete
+C:\Users\juand\Desktop\Blackjack Project (sln called lab2)\Black Jack Lab 2\obj\Debug\Black Jack Lab 2.exe
+C:\Users\juand\Desktop\Blackjack Project (sln called lab2)\Black Jack Lab 2\obj\Debug\Black Jack Lab 2.pdb
